@@ -3,6 +3,7 @@
 a
 ‚³‚ç‚É³‚µ‚¢•¶Í
 edit frombranch2
+edit frombranch2-2
 b
 PR test GittHubä¸Šã‹ã‚‰ã“ã£ã¡ã®ã“ã™
 edit from GitHub
