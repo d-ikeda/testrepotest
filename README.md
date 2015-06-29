@@ -6,3 +6,4 @@ dayo
 newmathine
 automerge
 test
+test2
