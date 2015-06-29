@@ -8,4 +8,3 @@ automerge
 test
 test2
 prune test
-prune test2
