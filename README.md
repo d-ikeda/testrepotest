@@ -7,3 +7,4 @@ newmathine
 automerge
 test
 test2
+prune test
