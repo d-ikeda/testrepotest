@@ -40,5 +40,5 @@ Footnotes[^1] are added in-text like so ...
 
 [^4]: aaa
 
-[test](https://docs.google.com/drawings/d/1myN7yOA6Ahxyo_cnLIr453_EB5JH7S8uvGqtFO0yTcs/edit?usp=sharing)
+[test](https://docs.google.com/drawings/d/e/2PACX-1vRjsS7DITyK_XCt2j7n-2F7pOR6zJkK5Dqb-OYIGh1Kmxjvkj5sAteQ8UjY7caTipkYm-Sh6CLWEnNd/pub?w=960&h=720)
 Google図形描画
