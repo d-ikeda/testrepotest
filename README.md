@@ -39,3 +39,6 @@ Footnotes[^1] are added in-text like so ...
 ということには[^3]
 
 [^4]: aaa
+
+[test](https://docs.google.com/drawings/d/1myN7yOA6Ahxyo_cnLIr453_EB5JH7S8uvGqtFO0yTcs/edit?usp=sharing)
+Google図形描画
