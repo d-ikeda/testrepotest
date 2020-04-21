@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 10\10 1stフェーズ, test2
 assignees: ''
 
 ---
